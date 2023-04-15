@@ -7,6 +7,9 @@
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker)
 ![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat-square&logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-05122A?style=flat-square&logo=googlecloud)
+<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogo56&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true)
 
 <!--
 **Diogo56/Diogo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

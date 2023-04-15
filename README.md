@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## &nbsq;Tech Stack
+![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python)&nbsq
+
 <!--
 **Diogo56/Diogo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

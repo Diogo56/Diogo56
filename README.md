@@ -1,7 +1,12 @@
-### Hi there 👋
+## **Hi there 👋, I'm Diogo**
 
-## &nbsq;Tech Stack
-![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python)&nbsq
+### **:computer: Tech Stack**
+![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat-square&logo=HTML5)
+![C#](https://img.shields.io/badge/CSharp-05122A?style=flat-square&logo=csharp)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat-square&logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazonaws)
 
 <!--
 **Diogo56/Diogo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
